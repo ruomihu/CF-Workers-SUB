@@ -1,0 +1,116 @@
+proxies:
+    - alterId: "0"
+      cipher: auto
+      name: "\U0001F1FA\U0001F1F8US_1 | ⬇️ 1.0MB/s"
+      network: ws
+      port: "40408"
+      server: tls.81.node-for-bigairport.win
+      skip-cert-verify: false
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      ws-opts:
+        headers: {}
+        path: /
+      xudp: true
+    - alterId: "0"
+      cipher: auto
+      name: "\U0001F1FA\U0001F1F8US_2 | ⬇️ 2.0MB/s"
+      network: tcp
+      port: "12088"
+      server: tls.09.node-for-bigairport.win
+      skip-cert-verify: false
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      xudp: true
+    - alterId: "0"
+      cipher: auto
+      name: "\U0001F1FA\U0001F1F8US_3 | ⬇️ 2.1MB/s"
+      network: tcp
+      port: "12088"
+      server: tls.06.node-for-bigairport.win
+      skip-cert-verify: false
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      xudp: true
+    - alterId: "0"
+      cipher: auto
+      name: "\U0001F1FA\U0001F1F8US_4 | ⬇️ 2.2MB/s"
+      network: tcp
+      port: "12087"
+      server: tls.19.node-for-bigairport.win
+      skip-cert-verify: false
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      xudp: true
+    - alterId: "0"
+      cipher: auto
+      name: "\U0001F1FA\U0001F1F8US_5 | ⬇️ 1.4MB/s"
+      network: ws
+      port: "40408"
+      server: tls.86.node-for-bigairport.win
+      skip-cert-verify: false
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      ws-opts:
+        headers: {}
+        path: /
+      xudp: true
+    - cipher: aes-256-gcm
+      name: "\U0001F1FA\U0001F1F8US_6 | ⬇️ 1.3MB/s"
+      password: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      port: "24105"
+      server: ss.017.node-for-bigairport.win
+      type: ss
+      udp: true
+    - cipher: aes-256-gcm
+      name: "\U0001F1FA\U0001F1F8US_7 | ⬇️ 1.4MB/s"
+      password: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      port: "24105"
+      server: ss.016.node-for-bigairport.win
+      type: ss
+      udp: true
+    - cipher: aes-256-gcm
+      name: "\U0001F1FA\U0001F1F8US_8 | ⬇️ 1.5MB/s"
+      password: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      port: "12085"
+      server: ss.023.node-for-bigairport.win
+      type: ss
+      udp: true
+    - cipher: aes-256-gcm
+      name: "\U0001F1FA\U0001F1F8US_9 | ⬇️ 3.2MB/s"
+      password: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      port: "12088"
+      server: ss.034.node-for-bigairport.win
+      type: ss
+      udp: true
+    - cipher: aes-256-gcm
+      name: "\U0001F1FA\U0001F1F8US_10 | ⬇️ 1.4MB/s"
+      password: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      port: "12088"
+      server: ss.026.node-for-bigairport.win
+      type: ss
+      udp: true
+    - cipher: aes-256-gcm
+      name: "\U0001F1FA\U0001F1F8US_11 | ⬇️ 2.3MB/s"
+      password: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      port: "12088"
+      server: ss.037.node-for-bigairport.win
+      type: ss
+      udp: true
+    - cipher: aes-256-gcm
+      name: "\U0001F1FA\U0001F1F8US_12 | ⬇️ 1.8MB/s"
+      password: 9581f646-cd66-47a6-8b73-a3589fe28ee3
+      port: "40408"
+      server: ss.039.node-for-bigairport.win
+      type: ss
+      udp: true
