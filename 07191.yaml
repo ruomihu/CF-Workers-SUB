@@ -1,0 +1,1665 @@
+proxies:
+  - name: "\U0001F1FA\U0001F1F8US_1 |1.3MB/s"
+    network: ws
+    port: 443
+    server: 212.183.88.1
+    skip-cert-verify: false
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5879d109-8c92-448a-801b-3f3989019934
+    ws-opts:
+      headers:
+        Host: tbs-80p.pages.dev
+      path: >-
+        /Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048
+    servername: pages.dev
+  - alterId: 2
+    cipher: auto
+    name: "\U0001F1FA\U0001F1F8US_2 |3.9MB/s"
+    network: ws
+    port: 30829
+    server: v29.heduian.link
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    ws-opts:
+      headers:
+        Host: ocbc.com
+      path: /oooo
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_3 |2.2MB/s"
+    network: ws
+    port: 443
+    server: 45.131.6.174
+    skip-cert-verify: false
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5879d109-8c92-448a-801b-3f3989019934
+    ws-opts:
+      headers:
+        Host: tbs-80p.pages.dev
+      path: >-
+        /Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048
+    servername: pages.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_4 |4.0MB/s"
+    network: ws
+    port: 443
+    server: 45.131.6.97
+    skip-cert-verify: false
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5879d109-8c92-448a-801b-3f3989019934
+    ws-opts:
+      headers:
+        Host: tbs-80p.pages.dev
+      path: >-
+        /Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048
+    servername: pages.dev
+  - name: "\U0001F1FA\U0001F1F8US_5 |5.2MB/s"
+    network: ws
+    password: tg-fq521free
+    port: 443
+    server: 45.67.215.95
+    skip-cert-verify: false
+    sni: torjan.xn--xhq44j.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: torjan.xn--xhq44j.eu.org
+      path: /
+  - name: "\U0001F1FA\U0001F1F8US_6 |1.5MB/s"
+    network: ws
+    port: 443
+    server: 69.84.182.2
+    skip-cert-verify: false
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5879d109-8c92-448a-801b-3f3989019934
+    ws-opts:
+      headers:
+        Host: tbs-80p.pages.dev
+      path: >-
+        /Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048
+    servername: pages.dev
+  - name: "\U0001F1FA\U0001F1F8US_7 |1.1MB/s"
+    network: ws
+    port: 443
+    server: 1750158741.tencentapp.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4b4c73ec-656a-473c-b29e-89c6f716045c
+    ws-opts:
+      headers:
+        Host: us1.loopycloudcfjiasucdn.pp.ua
+      path: /
+    servername: us1.loopycloudcfjiasucdn.pp.ua
+  - delay: 1399
+    disable-sni: true
+    down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_8 |1.1MB/s"
+    obfs: ''
+    obfs-password: ''
+    password: 65a43b6e-19c5-4fab-b960-d110a07d66a4
+    port: 3234
+    server: 209.141.47.127
+    skip-cert-verify: true
+    sni: ''
+    type: hysteria2
+    up: ''
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_9 |2.3MB/s"
+    network: ws
+    port: 443
+    server: 45.12.30.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5879d109-8c92-448a-801b-3f3989019934
+    ws-opts:
+      headers:
+        Host: tbs-80p.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/70.0.3538.110 Safari/537.36
+      path: >-
+        /Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048
+    xudp: true
+    servername: pages.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1F3\U0001F1F1NL_1 |2.0MB/s"
+    network: ws
+    port: 2096
+    server: 104.18.26.90
+    tls: true
+    type: vless
+    udp: true
+    uuid: 24a4aa9b-b341-4717-9d4a-00d74c2b84e0
+    ws-opts:
+      headers:
+        Host: JuOf8QfKy3.VpBeThOrVp002.InFo
+        User-Agent: >-
+          Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/65.0.3325.181 Safari/537.36
+      path: /
+    xudp: true
+    servername: JuOf8QfKy3.VpBeThOrVp002.InFo
+  - cipher: chacha20-ietf
+    name: "\U0001F1ED\U0001F1F0HK_1 |2.1MB/s"
+    password: asd123456
+    port: 8388
+    server: 103.149.183.61
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_10 |4.6MB/s"
+    network: ws
+    password: tg-fq521free
+    port: 443
+    server: 194.76.18.129
+    skip-cert-verify: false
+    sni: torjan.xn--xhq44j.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+          Safari/537.36
+      path: /
+  - client-fingerprint: random
+    name: "\U0001F1FA\U0001F1F8US_11 |2.8MB/s"
+    network: ws
+    port: 443
+    server: 104.22.22.237
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c
+    ws-opts:
+      headers:
+        Host: kawaiifreevpn-7ds.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/68.0.3440.1805 Safari/537.36 MVisionPlayer/1.0.0.0
+      path: /?ed=2560
+    xudp: true
+    servername: kawaiifreevpn-7ds.pages.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_12 |1.1MB/s"
+    network: ws
+    port: 443
+    server: 104.18.29.253
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c
+    ws-opts:
+      headers:
+        Host: kawaiifreevpn-7ds.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/64.0.3282.186 Safari/537.36
+      path: /Tel-@V2ray_Alpha/?ed=2560
+    xudp: true
+    servername: kawaiifreevpn-7ds.pages.dev
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_13 |2.5MB/s"
+    network: ws
+    port: 2053
+    server: 172.66.47.61
+    tls: true
+    type: vless
+    udp: true
+    uuid: a396b860-11b7-4af3-9950-146caf79735e
+    ws-opts:
+      headers:
+        Host: gghdfa.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/55.0.2883.87 Safari/537.36
+      path: /8WuhXm4QjK0L68Uf?ed
+    xudp: true
+    servername: gGHDFa.pAgeS.Dev
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_14 |1.5MB/s"
+    network: ws
+    port: 443
+    server: 103.160.204.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: c98a16e4-0dc5-42f0-b3db-30f04525c123
+    ws-opts:
+      headers:
+        Host: vless8-ekh.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
+      path: /
+    xudp: true
+    servername: vless8-ekh.pages.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1F9\U0001F1F7TR_1 |4.7MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: db7a5e4e-05b8-4111-ab6c-11a1ef87163d
+    ws-opts:
+      headers:
+        Host: rayan-fast.parmida.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/68.0.3440.1805 Safari/537.36 MVisionPlayer/1.0.0.0
+      path: /?ed=2560
+    xudp: true
+    servername: rayan-fast.parmida.dpdns.org
+  - cipher: aes-256-cfb
+    name: "\U0001F1FA\U0001F1F8US_15 |3.2MB/s"
+    password: awsps0501
+    port: 443
+    server: 54.187.127.254
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1F9\U0001F1F7TR_2 |3.1MB/s"
+    network: ws
+    port: 443
+    server: cdnjs.com
+    tls: true
+    type: vless
+    udp: true
+    uuid: db400287-fb42-441d-8a76-5624a8a96f49
+    ws-opts:
+      headers:
+        Host: rayan-roof.atena.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/69.0.3497.100 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: rayan-roof.atena.dpdns.org
+  - name: "\U0001F1EB\U0001F1EEFI_1 |1.8MB/s"
+    network: ws
+    port: 80
+    server: 172.67.181.173
+    type: vless
+    udp: true
+    uuid: f5bb393f-8984-4cdf-bf68-6ef5c41303e1
+    ws-opts:
+      headers:
+        Host: paMchall.cOm.
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/46.0.2490.71 Safari/537.36
+      path: >-
+        /Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560
+    xudp: true
+    servername: PamcHalL.coM
+  - client-fingerprint: chrome
+    name: "\U0001F1F1\U0001F1FBLV_1 |3.2MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 294b2fe3-df96-4ad4-b989-ee9a0cc98c6f
+    ws-opts:
+      headers:
+        Host: rayan-bear.narges.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; Moto C Build/NRD90M.059)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: rayan-bear.narges.dpdns.org
+  - name: "\U0001F1E6\U0001F1EAAE_1 |1.0MB/s"
+    network: ws
+    port: 80
+    server: 104.21.112.1
+    type: vless
+    udp: true
+    uuid: 2036e2c3-18a5-4eed-9db4-f91a7f02c7d5
+    ws-opts:
+      headers:
+        Host: zoomgov.vipren.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.67 Safari/537.36
+      path: /193.123.81.105=443
+    xudp: true
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1FA\U0001F1F8US_16 |2.4MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4
+      short-id: f5
+    server: amazon-13.cristiano.name.ng
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4
+    xudp: true
+    servername: store.steampowered.com
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_17 |1.4MB/s"
+    network: ws
+    port: 443
+    server: 104.18.26.90
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5879d109-8c92-448a-801b-3f3989019934
+    ws-opts:
+      headers:
+        Host: tbs-80p.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/49.0.2623.112 Safari/537.36
+      path: >-
+        /Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048
+    xudp: true
+    servername: pages.dev
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1E9\U0001F1EADE_1 |2.0MB/s"
+    network: ws
+    port: 443
+    server: 141.193.213.11
+    tls: true
+    type: vless
+    udp: true
+    uuid: f943ace2-4628-4022-9bdf-1db25e437e8d
+    ws-opts:
+      headers:
+        Host: Rlimod.wordperessweb.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: >-
+        /@CONFIGT/@CONFIGT/@CONFIGT/@CONFIGT/@CONFIGT/@CONFIGT/@CONFIGT/@CONFIGT/@CONFIGT/@CONFIGT/@CONFIGT?ed=2082
+    xudp: true
+    servername: Rlimod.wordperessweb.ir
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_18 |5.5MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: c997eaff-4bab-4fff-92e5-8e14dc248dc4
+    ws-opts:
+      headers:
+        Host: mAxNEtVIP-cLGERvIP146.MaxneTcloUdSerViCE.Com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/67.0.3396.99 Safari/537.36
+      path: /linkws?ed=2560
+    xudp: true
+    servername: mAxNEtVIP-cLGERvIP146.MaxneTcloUdSerViCE.Com
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_19 |1.5MB/s"
+    network: ws
+    port: 443
+    server: fonts.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7a80a8d9-92f9-4f0a-8352-9005a8215ab8
+    ws-opts:
+      headers:
+        Host: rayan-12.leila.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko)
+          Chrome/v1.0.0 Safari/538.1
+      path: /@Rayan_Config
+    xudp: true
+    servername: rAyAn-12.LeIlA.DpDnS.OrG
+  - alpn:
+      - h2
+    client-fingerprint: chrome
+    grpc-opts:
+      grpc-service-name: laTDC7FYNlE4MTTdA9h4p
+    name: "\U0001F1FA\U0001F1F8US_20 |2.2MB/s"
+    network: grpc
+    port: 443
+    server: 172.67.209.79
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2d068083-2cb0-4ae3-a44a-6fc82f3039cc
+    xudp: true
+    servername: DDDHHJkKMJU.999834.XYz
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_21 |5.4MB/s"
+    network: ws
+    port: 443
+    server: aliakb3435.pages.dev
+    tls: true
+    type: vless
+    udp: true
+    uuid: 97c4550f-8ecc-42fa-ae66-3b550c986cd2
+    ws-opts:
+      headers:
+        Host: aliakb3435.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/46.0.2490.71 Safari/537.36
+      path: /تعداد
+    xudp: true
+    servername: aLiAkB3435.paGES.dEV
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_22 |1.3MB/s"
+    network: ws
+    port: 443
+    server: 188.121.104.160
+    tls: true
+    type: vless
+    udp: true
+    uuid: b0e6a2c9-e667-4e42-9cb3-77d7db3e736b
+    ws-opts:
+      headers:
+        Host: melli2.gwhgc.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /@bypass_filter/
+    xudp: true
+    servername: melli2.gwhgc.workers.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1F3\U0001F1F1NL_2 |2.2MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 409dae9c-e37b-5b6d-b70b-9f358074b51b
+    ws-opts:
+      headers:
+        Host: nl-2-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /vless
+    xudp: true
+    servername: nl-2-ssm.medicaldream.ir
+  - client-fingerprint: random
+    name: "\U0001F1E9\U0001F1EADE_2 |1.7MB/s"
+    network: ws
+    port: 443
+    server: 104.18.26.90
+    tls: true
+    type: vless
+    udp: true
+    uuid: b28eb861-1748-4200-ba72-278669edc33b
+    ws-opts:
+      headers:
+        Host: barayeiranmahsang.mahmoodchitooz.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.75 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: barayeiranmahsang.mahmoodchitooz.dpdns.org
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1ED\U0001F1F0HK_2 |2.1MB/s"
+    network: tcp
+    port: 24758
+    reality-opts:
+      public-key: o59R2PjAsu1h4KcFjK-EDGP41N2PHZL_Pgk64UcFxh0
+      short-id: a6d87a12
+    server: aws-link3.liangxin1.xyz
+    tls: true
+    type: vless
+    udp: true
+    uuid: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
+    xudp: true
+    servername: osxapps.itunes.apple.com
+  - name: "\U0001F1E9\U0001F1EADE_3 |1.5MB/s"
+    network: ws
+    port: 80
+    server: www.speedtest.net
+    type: vless
+    udp: true
+    uuid: 008ddeba-f4f8-44dd-929a-762535e0f65d
+    ws-opts:
+      headers:
+        Host: www.speedtest.net.c.1.avaacado.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.106 Safari/537.36
+      path: >-
+        /Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80
+    xudp: true
+  - alpn:
+      - h3
+      - h2
+    client-fingerprint: randomized
+    name: "\U0001F1E8\U0001F1EDCH_1 |1.1MB/s"
+    network: ws
+    port: 2053
+    server: wouldyoumarriemepleasefuckthesystem2.siasia.ir
+    tls: true
+    type: vless
+    udp: true
+    uuid: ce62ee5e-e316-46af-b967-4588a5e8e66c
+    ws-opts:
+      headers:
+        Host: hheydudethisworldisshet.siasia.ir
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; A37fw Build/LMY47V)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+          Safari/537.36
+      path: /apiii
+    xudp: true
+    servername: hheydudethisworldisshet.siasia.ir
+  - client-fingerprint: chrome
+    name: "\U0001F1E6\U0001F1F9AT_1 |1.2MB/s"
+    network: ws
+    port: 443
+    server: web.xhamster.biz.id
+    tls: true
+    type: vless
+    udp: true
+    uuid: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
+    ws-opts:
+      headers:
+        Host: web.xhamster.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.113 Safari/537.36
+      path: /Free-CF-Proxy-AT4
+    xudp: true
+    servername: web.xhamster.biz.id
+  - alpn:
+      - ''
+    alterId: '0'
+    cipher: auto
+    name: "\U0001F1E8\U0001F1E6CA_1 |3.0MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    udp: true
+    uuid: e2fb28b8-a457-4bd2-801e-56fdcccbd88e
+    ws-opts:
+      headers:
+        Host: blaze-cana-126.blazeservers1.site
+      path: /linkvkwsss
+    xudp: true
+    servername: blaze-cana-126.blazeservers1.site
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_23 |1.1MB/s"
+    network: ws
+    port: 443
+    server: 47.254.169.226
+    tls: true
+    type: vless
+    udp: true
+    uuid: b0e6a2c9-e667-4e42-9cb3-77d7db3e736b
+    ws-opts:
+      headers:
+        Host: bypass-filter.pmdnusw.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.71 Safari/537.36
+      path: /@bypass_filter/
+    xudp: true
+    servername: bypass-filter.pmdnusw.workers.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1ED\U0001F1FAHU_1 |3.1MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 57511480-2d8d-58db-bfff-7267260383f2
+    ws-opts:
+      headers:
+        Host: hu-1-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.181 Safari/537.36
+      path: /vless
+    xudp: true
+    servername: hu-1-ssm.medicaldream.ir
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_24 |4.1MB/s"
+    network: ws
+    port: 443
+    server: jquery.com
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7a80a8d9-92f9-4f0a-8352-9005a8215ab8
+    ws-opts:
+      headers:
+        Host: rAyAn-uS-1.MeDiCaLhIsToRy.iR
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/58.0.3029.110 Safari/537.36
+      path: /@Rayan_Config
+    xudp: true
+    servername: rAyAn-uS-1.MeDiCaLhIsToRy.iR
+  - client-fingerprint: chrome
+    name: "\U0001F1F0\U0001F1F7KR_1 |4.9MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2ed6a813-be48-548f-a8dd-8b23eb6c7133
+    ws-opts:
+      headers:
+        Host: kr-2-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/65.0.3325.181 Safari/537.36
+      path: /vless
+    xudp: true
+    servername: kr-2-ssm.medicaldream.ir
+  - name: "\U0001F1E6\U0001F1EAAE_2 |1.8MB/s"
+    network: ws
+    port: 80
+    server: 104.21.96.1
+    type: vless
+    udp: true
+    uuid: 2036e2c3-18a5-4eed-9db4-f91a7f02c7d5
+    ws-opts:
+      headers:
+        Host: zoomgov.vipren.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.113 Safari/537.36
+      path: /193.123.81.105=443
+    xudp: true
+  - name: "\U0001F1FA\U0001F1F8US_25 |1.3MB/s"
+    network: ws
+    port: 80
+    server: 172.66.44.135
+    type: vless
+    udp: true
+    uuid: 5df7962e-f9fe-41e6-ab49-ed96ccb856a7
+    ws-opts:
+      headers:
+        Host: v2ra1.ecrgpk.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.77 Safari/537.36
+      path: /Telegram@v2ray_alpha?ed=2048
+    xudp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_26 |4.2MB/s"
+    network: ws
+    port: 443
+    server: fonts.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7a80a8d9-92f9-4f0a-8352-9005a8215ab8
+    ws-opts:
+      headers:
+        Host: rAyAn-uS-2.MeDiCaLhIsToRy.iR
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.117 Safari/537.36
+      path: /@Rayan_Config
+    xudp: true
+    servername: rAyAn-uS-2.MeDiCaLhIsToRy.iR
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_27 |1.5MB/s"
+    network: ws
+    port: 443
+    server: 104.18.26.90
+    tls: true
+    type: vless
+    udp: true
+    uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa
+    ws-opts:
+      headers:
+        Host: barayeiranmahsang.sabzipolobamahi.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.110 Safari/537.36
+      path: >-
+        /Join---@MTMVPN---Join---@MTMVPN---Join---@MTMVPN---Join---@MTMVPN?ed=2560
+    xudp: true
+    servername: barayeiranmahsang.sabzipolobamahi.dpdns.org
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_28 |4.2MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 48caa578-241e-43eb-817f-0854b84b0fb0
+    ws-opts:
+      headers:
+        Host: config-vortex55-ar5.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/68.0.3440.1805 Safari/537.36 MVisionPlayer/1.0.0.0
+      path: /edrlz7qvRheKjll8/MTQ0LjI0LjkwLjEwNw==?ed=2560
+    xudp: true
+    servername: conFiG-VOrteX55-AR5.pagES.deV
+  - name: "\U0001F1EB\U0001F1EEFI_2 |1.9MB/s"
+    network: ws
+    port: 80
+    server: www.speedtest.net
+    type: vless
+    udp: true
+    uuid: cec135d5-fcce-4c9e-c5f4-d94744055291
+    ws-opts:
+      headers:
+        Host: fin.channel.digicyber.click
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like
+          Gecko) Chrome/26.0.1410.64 Safari/537.31
+      path: /olem/ws?ed=1024
+    xudp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_29 |3.0MB/s"
+    network: ws
+    port: 443
+    server: 162.159.0.0
+    tls: true
+    type: vless
+    udp: true
+    uuid: d0298536-d670-4045-bbb1-ddd5ea68683e
+    ws-opts:
+      headers:
+        Host: azadnet-cnh.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.87 Safari/537.36
+      path: /azadnet-cnh.pages.dev/?ed=2560
+    xudp: true
+    servername: azadnet-cnh.pages.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_30 |1.3MB/s"
+    network: ws
+    port: 443
+    server: homestead.com
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7a80a8d9-92f9-4f0a-8352-9005a8215ab8
+    ws-opts:
+      headers:
+        Host: rAyAn-uS-1.MeDiCaLhIsToRy.iR
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /@Rayan_Config
+    xudp: true
+    servername: rAyAn-uS-1.MeDiCaLhIsToRy.iR
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F1E8\U0001F1E6CA_2 |1.5MB/s"
+    password: JIhN6rBKkaEboLNXVSv5rq
+    port: 80
+    server: ca225.vpnbook.com
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1EA\U0001F1EAEE_1 |4.1MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4168d65b-c299-59b9-8d64-bbc3c6710439
+    ws-opts:
+      headers:
+        Host: ee-1-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/37.0.2062.120 Safari/537.36
+      path: /vless
+    xudp: true
+    servername: ee-1-ssm.medicaldream.ir
+  - client-fingerprint: chrome
+    name: "\U0001F1F3\U0001F1F1NL_3 |3.7MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: e96b9e7b-095a-58e1-a54e-e8e0cbc7f188
+    ws-opts:
+      headers:
+        Host: nl-1-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; MYA-L22 Build/HUAWEIMYA-L22)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+          Safari/537.36
+      path: /vless
+    xudp: true
+    servername: nl-1-ssm.medicaldream.ir
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_31 |1.2MB/s"
+    network: ws
+    port: 443
+    server: ns1.cloudflare.com
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4e4768df-0fbb-4cc1-8fd3-7c6fea95742a
+    ws-opts:
+      headers:
+        Host: rayan-09.parastoo.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/54.0.2840.99 Safari/537.36
+      path: /@Rayan_Config
+    xudp: true
+    servername: RayAN-09.pAraStOo.DpdNs.oRg
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_32 |1.6MB/s"
+    network: ws
+    port: 443
+    server: 104.22.24.195
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c
+    ws-opts:
+      headers:
+        Host: kawaiifreevpn-7ds.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /
+    xudp: true
+    servername: kawaiifreevpn-7ds.pages.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1EE\U0001F1F3IN_1 |5.5MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 44418051-6e79-51ec-adeb-cdc594f4ec00
+    ws-opts:
+      headers:
+        Host: in-1-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /vless
+    xudp: true
+    servername: in-1-ssm.medicaldream.ir
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_33 |1.7MB/s"
+    network: ws
+    port: 443
+    server: 45.8.211.236
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7a80a8d9-92f9-4f0a-8352-9005a8215ab8
+    ws-opts:
+      headers:
+        Host: rayan-12.leila.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1; A37f Build/LMY47V) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
+      path: /@Rayan_Config
+    xudp: true
+    servername: rAyAn-12.LeIlA.DpDnS.OrG
+  - client-fingerprint: chrome
+    name: "\U0001F1F0\U0001F1F7KR_2 |4.3MB/s"
+    network: ws
+    port: 443
+    server: 104.21.48.1
+    tls: true
+    type: vless
+    udp: true
+    uuid: e5c2e234-333e-48b4-8199-2793a64527bc
+    ws-opts:
+      headers:
+        Host: s1-c3r.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/31.0.1650.57 Safari/537.36
+      path: /8SdV1hw44t3rzxh0?ed=2560
+    xudp: true
+    servername: s1-c3r.pages.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_34 |3.2MB/s"
+    network: ws
+    port: 443
+    server: jquery.com
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7a80a8d9-92f9-4f0a-8352-9005a8215ab8
+    ws-opts:
+      headers:
+        Host: rayan-11.leila.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; vivo 1713 Build/MRA58K)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
+          Safari/537.36
+      path: /@Rayan_Config
+    xudp: true
+    servername: rAyAn-11.LeIlA.DpDnS.OrG
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_35 |1.1MB/s"
+    network: ws
+    port: 443
+    server: 104.16.213.195
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c
+    ws-opts:
+      headers:
+        Host: kawaiifreevpn-7ds.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/64.0.3282.186 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: kawaiifreevpn-7ds.pages.dev
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_36 |2.9MB/s"
+    network: ws
+    port: 443
+    server: 172.67.169.91
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3d9741da-c0e4-47cc-a5e0-f1af3d337dae
+    ws-opts:
+      headers:
+        Host: zzssdd.938.pp.ua
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/63.0.3239.132 Safari/537.36
+      path: /GLDvleH8RDu6ZqfwAwY2SNm
+    xudp: true
+    servername: ZzSSdD.938.Pp.ua
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_37 |1.7MB/s"
+    network: ws
+    password: 3d9741da-c0e4-47cc-a5e0-f1af3d337dae
+    port: 443
+    server: 172.67.131.76
+    skip-cert-verify: false
+    sni: FffFvvBnmjKIOop.222767.XYz
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.80 Safari/537.36
+      path: /51ilfH8vHwxilZqfwAwY2SNm
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1F7\U0001F1FARU_1 |1.3MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+      short-id: 48720c
+    server: ru01-vlr01.tcp-reset-club.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2a02cb25-0f58-4b19-a7a6-8c205fdb9042
+    xudp: true
+    servername: hls-svod.itunes.apple.com
+  - client-fingerprint: chrome
+    name: "\U0001F1F0\U0001F1F7KR_3 |4.4MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: c9e2b304-ed2b-5d09-8a4e-70b9b246b6c7
+    ws-opts:
+      headers:
+        Host: kr-2-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.80 Safari/537.36
+      path: /vless
+    xudp: true
+    servername: kr-2-ssm.medicaldream.ir
+  - name: "\U0001F1E6\U0001F1EAAE_3 |1.8MB/s"
+    network: ws
+    port: 80
+    server: vizzpn.freenet.channel.vizzfrag.ir
+    type: vless
+    udp: true
+    uuid: 2036e2c3-18a5-4eed-9db4-f91a7f02c7d5
+    ws-opts:
+      headers:
+        Host: zoomgov.vipren.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/65.0.3325.181 Safari/537.36
+      path: /193.123.81.105=443
+    xudp: true
+  - name: "\U0001F1E8\U0001F1E6CA_3 |2.5MB/s"
+    network: ws
+    port: 80
+    server: 104.18.26.90
+    type: vless
+    udp: true
+    uuid: 3ac2de34-47c5-4dd5-afc0-8fb4b05d4077
+    ws-opts:
+      headers:
+        Host: blaze-can-118.blazecanada.site
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/65.0.3325.181 Safari/537.36
+      path: /?ed=2560/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI
+    xudp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1ED\U0001F1FAHU_2 |4.4MB/s"
+    network: ws
+    port: 443
+    server: www.visa.com.br
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4e4768df-0fbb-4cc1-8fd3-7c6fea95742a
+    ws-opts:
+      headers:
+        Host: rayan-09.parastoo.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile
+          Safari/537.36
+      path: /@Rayan_Config
+    xudp: true
+    servername: RayAN-09.pAraStOo.DpdNs.oRg
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1ED\U0001F1F0HK_3 |3.8MB/s"
+    network: tcp
+    port: 32725
+    reality-opts:
+      public-key: IdgzmrHX6nbZEVjox3WcxBE07DwXE9YIa8ZyYZuMWEw
+      short-id: 784cf058
+    server: aws-link2.liangxin1.xyz
+    tls: true
+    type: vless
+    udp: true
+    uuid: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
+    xudp: true
+    servername: osxapps.itunes.apple.com
+  - name: "\U0001F1EC\U0001F1E7GB_1 |2.4MB/s"
+    network: ws
+    port: 80
+    server: 172.64.155.209
+    type: vless
+    udp: true
+    uuid: 6871457f-de9b-48be-9b0b-5ef1df5cd55a
+    ws-opts:
+      headers:
+        Host: >-
+          imaneemon66-imaneemon66-imaneemon66-imaneemon66-imaneemon66.varzesh3.lat.
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/60.0.3112.116 Mobile Safari/537.36
+      path: /?ed=2048
+    xudp: true
+  - name: "\U0001F1EB\U0001F1EEFI_3 |1.2MB/s"
+    network: ws
+    port: 80
+    server: tgju.org
+    type: vless
+    udp: true
+    uuid: cec135d5-fcce-4c9e-c5f4-d94744055291
+    ws-opts:
+      headers:
+        Host: fin.channel.digicyber.click
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/52.0.2743.116 Safari/537.36
+      path: /olem/ws?ed=1024
+    xudp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_38 |5.1MB/s"
+    network: ws
+    port: 443
+    server: 188.121.104.160
+    tls: true
+    type: vless
+    udp: true
+    uuid: b0e6a2c9-e667-4e42-9cb3-77d7db3e736b
+    ws-opts:
+      headers:
+        Host: melli.srytmtqa.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10
+          (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+      path: /@bypass_filter/
+    xudp: true
+    servername: melli.srytmtqa.workers.dev
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_39 |2.0MB/s"
+    network: ws
+    password: 6757b7d6-fa32-4708-b5d1-30e3cf928b51
+    port: 443
+    server: 104.21.52.157
+    skip-cert-verify: false
+    sni: 222222222d.FREevpn2026.dPdNS.orG
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.67 Safari/537.36
+      path: /l96MZ8se5Kl2p8BiMhP42l
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1F5\U0001F1EDPH_1 |6.0MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 256b56b5-9079-4266-8777-c39fdcd87cd9
+    ws-opts:
+      headers:
+        Host: amir-ebr.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.99 Safari/537.36
+      path: /2IBbZjAugSH41qc5?ed=2560
+    xudp: true
+    servername: amIR-ebR.pAGeS.Dev
+  - client-fingerprint: chrome
+    name: "\U0001F1E9\U0001F1EADE_4 |1.3MB/s"
+    network: ws
+    port: 443
+    server: 104.18.32.151
+    tls: true
+    type: vless
+    udp: true
+    uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa
+    ws-opts:
+      headers:
+        Host: barayeiranmahsang.sabzipolobamahi.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: barayeiranmahsang.sabzipolobamahi.dpdns.org
+  - client-fingerprint: chrome
+    name: "\U0001F1EF\U0001F1F5JP_1 |1.2MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9ff807b0-c4e3-5f52-b560-0bb48c37cf3f
+    ws-opts:
+      headers:
+        Host: jp-2-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /vless
+    xudp: true
+    servername: jp-2-ssm.medicaldream.ir
+  - alpn:
+      - ''
+    alterId: '0'
+    cipher: auto
+    name: "\U0001F1EB\U0001F1F7FR_1 |2.5MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    udp: true
+    uuid: b7acf44f-3c3a-430c-8ed0-fb64ccc9a13a
+    ws-opts:
+      headers:
+        Host: BLaZE-fRA-64.BLaZECLOuD.sitE
+      path: /linkvkwss
+    xudp: true
+    servername: BLaZE-fRA-64.BLaZECLOuD.sitE
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_40 |2.7MB/s"
+    network: ws
+    port: 443
+    server: 104.16.38.176
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c
+    ws-opts:
+      headers:
+        Host: kawaiifreevpn-7ds.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/59.0.3071.115 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: kawaiifreevpn-7ds.pages.dev
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_41 |4.3MB/s"
+    network: ws
+    port: 443
+    server: 104.19.4.191
+    tls: true
+    type: vless
+    udp: true
+    uuid: affd5a9a-22fa-11ee-be56-0242ac120002
+    ws-opts:
+      headers:
+        Host: vpn870.tutorials26858.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.71 Safari/537.36
+      path: /
+    xudp: true
+    servername: vpn870.tutorials26858.workers.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_42 |3.9MB/s"
+    network: ws
+    port: 443
+    server: 104.21.76.15
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5a5d9654-2f1e-4537-b3ca-e76168b2e03f
+    ws-opts:
+      headers:
+        Host: wlma.jeremaih-talik.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/40.0.2214.115 Safari/537.36
+      path: /TELEGRAM-MARAMBASHI/
+    xudp: true
+    servername: wlma.jeremaih-talik.workers.dev
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_43 |1.0MB/s"
+    network: ws
+    password: tg-fq521free
+    port: 443
+    server: 216.24.57.30
+    skip-cert-verify: false
+    sni: torjan.xn--xhq44j.eu.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /
+  - client-fingerprint: chrome
+    name: "\U0001F1F8\U0001F1ECSG_1 |1.7MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: c1f5e91c-79e7-5135-b191-1056cff6e91e
+    ws-opts:
+      headers:
+        Host: sg-1-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko)
+          Slackware/Chrome/12.0.742.100 Safari/534.30
+      path: /vless
+    xudp: true
+    servername: sg-1-ssm.medicaldream.ir
+  - client-fingerprint: chrome
+    name: "\U0001F1EC\U0001F1E7GB_2 |3.5MB/s"
+    network: ws
+    port: 443
+    server: www.speedtest.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: aaaa8f7a-4b22-5f01-9b91-95f368ef38c7
+    ws-opts:
+      headers:
+        Host: uk-2-ssm.medicaldream.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.71 Safari/537.36
+      path: /vless
+    xudp: true
+    servername: uk-2-ssm.medicaldream.ir
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1F8\U0001F1ECSG_2 |3.9MB/s"
+    network: tcp
+    port: 39645
+    reality-opts:
+      public-key: x7VqpFP7_PrY4ebNw8hi8Ec5Tm5Upmt5JOdrN1M9VnQ
+      short-id: 2b3b0b93
+    server: aws-link8.liangxin1.xyz
+    tls: true
+    type: vless
+    udp: true
+    uuid: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
+    xudp: true
+    servername: iosapps.itunes.apple.com
+  - alpn:
+      - ''
+    alterId: '0'
+    cipher: auto
+    name: "\U0001F1E9\U0001F1EADE_5 |1.9MB/s"
+    network: ws
+    port: 2083
+    server: www.meter.net
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    udp: true
+    uuid: c208e0ae-6f6d-4745-99da-44a44744c530
+    ws-opts:
+      early-data-header-name: Sec-WebSocket-Protocol
+      headers:
+        Host: blaze-ger-248.blazecloudmain.site
+      max-early-data: 2560
+      path: /linkwsrt
+    xudp: true
+    servername: www.meter.net
+  - alterId: 2
+    cipher: auto
+    name: "\U0001F1ED\U0001F1F0HK_4 |1.7MB/s"
+    network: ws
+    port: 30807
+    server: v7.heduian.link
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    ws-opts:
+      headers:
+        Host: v7.heduian.link
+      path: /oooo
+    xudp: true
+    servername: v7.heduian.link
+rule-providers:
+  private:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/private.yaml
+    path: ./ruleset/private.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/cn.yaml
+    path: ./ruleset/cn_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/telegram.yaml
+    path: ./ruleset/telegram_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  google_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/google.yaml
+    path: ./ruleset/google_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  geolocation-!cn:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/geolocation-!cn.yaml
+    path: ./ruleset/geolocation-!cn.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/cn.yaml
+    path: ./ruleset/cn_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/telegram.yaml
+    path: ./ruleset/telegram_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  google_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/google.yaml
+    path: ./ruleset/google_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  bing:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Bing/Bing.yaml
+    path: ./ruleset/bing.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  copilot:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Copilot/Copilot.yaml
+    path: ./ruleset/copilot.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  claude:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Claude/Claude.yaml
+    path: ./ruleset/claude.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  bard:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BardAI/BardAI.yaml
+    path: ./ruleset/bard.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  openai:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/OpenAI/OpenAI.yaml
+    path: ./ruleset/openai.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  steam:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Steam/Steam.yaml
+    path: ./ruleset/steam.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+proxy-groups:
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Static.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: PROXY
+    type: select
+    proxies:
+      - AUTO
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Urltest.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/OpenAI.png'
+    name: AIGC
+    type: select
+    proxies:
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Telegram.png'
+    name: Telegram
+    type: select
+    proxies:
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Google.png'
+    name: Google
+    type: select
+    proxies:
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/HK.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)香港|Hong Kong|HK|\U0001F1ED\U0001F1F0"
+    name: HK AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/SG.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)新加坡|Singapore|\U0001F1F8\U0001F1EC"
+    name: SG AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/JP.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)日本|Japan|\U0001F1EF\U0001F1F5"
+    name: JP AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/US.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)美国|USA|\U0001F1FA\U0001F1F8"
+    name: US AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Global.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    proxies:
+      - PROXY
+      - AUTO
+      - AIGC
+      - Telegram
+      - Google
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+    name: GLOBAL
+    type: select
+rules:
+  - 'PROCESS-NAME,subs-check.exe,DIRECT'
+  - 'PROCESS-NAME,subs-check,DIRECT'
+  - 'RULE-SET,private,DIRECT'
+  - 'RULE-SET,bing,AIGC'
+  - 'RULE-SET,copilot,AIGC'
+  - 'RULE-SET,bard,AIGC'
+  - 'RULE-SET,openai,AIGC'
+  - 'RULE-SET,claude,AIGC'
+  - 'RULE-SET,steam,PROXY'
+  - 'RULE-SET,telegram_domain,Telegram'
+  - 'RULE-SET,telegram_ip,Telegram'
+  - 'RULE-SET,google_domain,Google'
+  - 'RULE-SET,google_ip,Google'
+  - 'RULE-SET,geolocation-!cn,PROXY'
+  - 'RULE-SET,cn_domain,DIRECT'
+  - 'RULE-SET,cn_ip,DIRECT'
+  - 'MATCH,PROXY'
